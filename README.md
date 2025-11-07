@@ -5,7 +5,7 @@
 
   [week 2](https://github.com/kaeuhy/typescript/blob/main/seminal/week2.md)
 
-  [week 3]()
+  [week 3](https://github.com/kaeuhy/typescript/blob/main/seminal/week3.md)
 
   [week 4]()
 
