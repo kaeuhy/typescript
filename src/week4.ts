@@ -37,3 +37,21 @@
 //
 //
 //
+
+interface User {
+    id: string;
+    name: string;
+}
+
+let seho: User;
+
+
+
+
+
+
+
+
+
+
+
