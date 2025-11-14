@@ -32,4 +32,10 @@
   - 타입 좁히기
   - 인터섹션 타입
 
+  [타입 별칭](https://github.com/kaeuhy/typescript/blob/main/seminal/week4/type_aliases/type_aliases.md)
+  - 타입 별칭이란?
+  - 타입 별칭과 인터페이스
+  - 선언 병합
+  - 타입 확장
+  - 타입 별칭의 활용
   
