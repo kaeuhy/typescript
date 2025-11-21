@@ -38,4 +38,10 @@
   - 선언 병합
   - 타입 확장
   - 타입 별칭의 활용
-  
+
+  [enum 타입](https://github.com/kaeuhy/typescript/blob/main/seminal/week5/enum/enum.md)
+  - 이넘 타입이란?
+  - 숫자형 이넘
+  - 문자형 이넘
+  - 혼합 이넘
+  - const 이넘
