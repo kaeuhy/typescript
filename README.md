@@ -45,3 +45,12 @@
   - 문자형 이넘
   - 혼합 이넘
   - const 이넘
+
+  [클래스](https://github.com/kaeuhy/typescript/blob/main/seminal/week5/class/class.md)
+  - 클래스란?
+  - 클래스의 기본 문법
+  - 클래스의 상속
+  - 타입스크립트의 클래스
+  - 클래스는 타입이다
+  - 접근 제어자
+  - 필드 생략
