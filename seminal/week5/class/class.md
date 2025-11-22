@@ -586,6 +586,8 @@ hyeon.sayHi(); // 'sayHi' 속성은 private이며 'Person' 클래스 내부에�
 
 추가적으로 `private` 으로 지정된 속성과 메서드는 클래스 인스턴스에서 자동 완성을 지원하지 않습니다.
 
+<img width="730" height="181" alt="image" src="https://github.com/user-attachments/assets/8e55bbe0-8275-4486-a650-f7cd138cbe60" />
+
 이처럼 `private` 접근 제어자를 이용하여 클래스 외부에서 속성과 메서드가 사용되는 것을 막을 수 있습니다.
 
 </br>
@@ -637,11 +639,14 @@ class Developer extends Person {
 
 하지만 해당 코드는 에러가 발생합니다.
 
+<img width="1320" height="524" alt="image" src="https://github.com/user-attachments/assets/1990d6d6-7858-44c0-9519-feaacf023756" />
 
 `coding` 메서드의 `this.skill` 과 `this.name` 은 `private` 으로 정의된 속성을 클래스 외부에서 접근하려고 했기 때문에 발생합니다.
 
 </br>
 </br>
+
+<img width="922" height="382" alt="image" src="https://github.com/user-attachments/assets/487fe267-3bbc-4650-8f15-0443e74d8f39" />
 
 
 `coding` 메서드와는 달리 `protected` 으로 정의한 `sayHi` 메서드는 `Person` 클래스를 상속받은 `Developer` 클래스에서 사용해도 문제가 발생하지 않습니다.
@@ -655,6 +660,8 @@ class Developer extends Person {
 let hyeon = new Person('은현', '프론트엔드');
 hyeon.sayHi;
 ```
+
+<img width="1564" height="536" alt="image" src="https://github.com/user-attachments/assets/026c634d-0dc5-4891-aa31-e8d71d50b062" />
 
 
 당연히 `sayHi` 메서드는 보호된 속성이므로 `private` 와 마찬가지로 클래스 외부에서 사용할 수 없습니다
@@ -750,6 +757,8 @@ hyeon.coding();
 
 </br>
 </br>
+
+<img width="1288" height="440" alt="image" src="https://github.com/user-attachments/assets/b65eb66f-cf4a-48bf-a571-35df93eb90ac" />
 
 
 `#` 키워드를 사용하여 정의시 컴파일에서도 에러가 발생하여 실행되지 않습니다.
