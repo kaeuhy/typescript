@@ -54,3 +54,17 @@
   - 클래스는 타입이다
   - 접근 제어자
   - 필드 생략
+
+  [제네릭](https://github.com/kaeuhy/typescript/blob/main/seminal/week6/generic/generic.md)
+  - 제네릭이란?
+  - 제네릭 기본 문법
+  - 제네릭 사용 이유
+  - 인터페이스에 제네릭 적용
+  - 제네릭의 타입 제약
+    - `keyof` 키워드
+
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
