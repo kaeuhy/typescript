@@ -63,8 +63,13 @@
   - 제네릭의 타입 제약
     - `keyof` 키워드
 
-
-  <br/>
-  <br/>
-  <br/>
+  [타입 추론](https://github.com/kaeuhy/typescript/blob/main/seminal/week6/type_inference/type_inference.md)
+  - 타입 추론이란?
+  - 변수의 타입 추론 과정
+  - 함수의 타입 추론
+    - 반환 타입
+    - 파라미터 타입
+  - 인터페이스와 제네릭의 추론 방식
+  - 복잡한 구조에서 타입 추론 방식
+    
   <br/>
