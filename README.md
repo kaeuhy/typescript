@@ -71,5 +71,10 @@
     - 파라미터 타입
   - 인터페이스와 제네릭의 추론 방식
   - 복잡한 구조에서 타입 추론 방식
+
+  [타입 단언](https://github.com/kaeuhy/typescript/blob/main/seminal/week6/type_assertion/type_assertion.md)
+  - 타입 단언이란?
+  - 타입 단언 문법
+  - null 아님 보장 연산자
     
   <br/>

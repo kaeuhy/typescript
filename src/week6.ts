@@ -32,20 +32,30 @@
 //     return a + c;
 // }
 
-interface Dropdown<T> {
-    title: string;
-    value: T;
-}
+// interface Dropdown<T> {
+//     title: string;
+//     value: T;
+// }
+//
+// interface DetailedDropdown<K> extends Dropdown<K> {
+//     tag: string;
+//     description: string;
+// }
+//
+// let shoppingItem: DetailedDropdown<number> = {
+//     title: "강은현",
+//     tag: '타입',
+//     description: '세미나',
+//     value: 1
+// }
 
-interface DetailedDropdown<K> extends Dropdown<K> {
-    tag: string;
-    description: string;
-}
 
-let shoppingItem: DetailedDropdown<number> = {
-    title: "강은현",
-    tag: '타입',
-    description: '세미나',
-    value: 1
-}
+// interface Person {
+//     name: string;
+//     age: number;
+// }
+//
+// let joo = {};
+// joo.name = '은현';
+// joo.age = 25;
 
