@@ -76,5 +76,13 @@
   - 타입 단언이란?
   - 타입 단언 문법
   - null 아님 보장 연산자
+
+  [타입 가드](https://github.com/kaeuhy/typescript/blob/main/seminal/week7/type_guard/type_guard.md)
+  - 타입 가드란?
+  - 타입 가드의 필요성
+  - 타입 가드로 문제점 해결
+  - 타입 가드 문법
+  - 타입 가드 함수
+  - 구별된 유니언 타입
     
   <br/>
