@@ -84,5 +84,13 @@
   - 타입 가드 문법
   - 타입 가드 함수
   - 구별된 유니언 타입
+
+  [타입 호환](https://github.com/kaeuhy/typescript/blob/main/seminal/week7/type_compatibility/type_compatibility.md)
+  - 타입 호환이란?
+  - 다른 언어와 차이점
+  - 객체 타입의 호환
+  - 함수 타입의 호환
+  - 이넘 타입의 호환
+  - 제네릭 타입의 호환
     
   <br/>
