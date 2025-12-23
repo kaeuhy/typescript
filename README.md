@@ -92,5 +92,13 @@
   - 함수 타입의 호환
   - 이넘 타입의 호환
   - 제네릭 타입의 호환
+
+  [모듈](https://github.com/kaeuhy/typescript/blob/main/seminal/week8/module/module.md)
+  - 모듈이란?
+  - 자바스크립트 모듈화 문법
+  - 타입스크립트 모듈
+  - 타입스크립트 모듈 유효 범위
+  - 타입스크립트 모듈화 문법
+  - 모듈화 전략 - Barrel
     
   <br/>
