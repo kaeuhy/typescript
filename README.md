@@ -44,7 +44,7 @@
   - 숫자형 이넘
   - 문자형 이넘
   - 혼합 이넘
-  - const 이넘
+  - ``const`` 이넘
 
   [클래스](https://github.com/kaeuhy/typescript/blob/main/seminal/week5/class/class.md)
   - 클래스란?
@@ -61,7 +61,7 @@
   - 제네릭 사용 이유
   - 인터페이스에 제네릭 적용
   - 제네릭의 타입 제약
-    - `keyof` 키워드
+    - ``keyof`` 키워드
 
   [타입 추론](https://github.com/kaeuhy/typescript/blob/main/seminal/week6/type_inference/type_inference.md)
   - 타입 추론이란?
@@ -75,7 +75,7 @@
   [타입 단언](https://github.com/kaeuhy/typescript/blob/main/seminal/week6/type_assertion/type_assertion.md)
   - 타입 단언이란?
   - 타입 단언 문법
-  - null 아님 보장 연산자
+  - ``null`` 아님 보장 연산자
 
   [타입 가드](https://github.com/kaeuhy/typescript/blob/main/seminal/week7/type_guard/type_guard.md)
   - 타입 가드란?
@@ -100,5 +100,13 @@
   - 타입스크립트 모듈 유효 범위
   - 타입스크립트 모듈화 문법
   - 모듈화 전략 - Barrel
+
+  [유틸리티 타입](https://github.com/kaeuhy/typescript/blob/main/seminal/week8/utility_type/utility_type.md)
+  - 유틸리티 타입이란?
+  - ``Pick`` 유틸리티 타입
+  - ``Omit`` 유틸리티 타입
+  - ``Partial`` 유틸리티 타입
+  - ``Exclude`` 유틸리티 타입
+  - ``Record`` 유틸리티 타입
     
   <br/>
