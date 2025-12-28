@@ -101,7 +101,7 @@
   - 타입스크립트 모듈화 문법
   - 모듈화 전략 - Barrel
 
-  [유틸리티 타입](https://github.com/kaeuhy/typescript/blob/main/seminal/week8/utility_type/utility_type.md)
+  [유틸리티 타입](https://github.com/kaeuhy/typescript/blob/main/seminal/week8/utility_types/utility_type.md)
   - 유틸리티 타입이란?
   - ``Pick`` 유틸리티 타입
   - ``Omit`` 유틸리티 타입
