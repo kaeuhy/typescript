@@ -108,5 +108,14 @@
   - ``Partial`` 유틸리티 타입
   - ``Exclude`` 유틸리티 타입
   - ``Record`` 유틸리티 타입
+
+  [맵드 타입](https://github.com/kaeuhy/typescript/blob/main/seminal/week8/mapped_type/mapped_type.md)
+  - 맵드 타입이란?
+  - 맵드 타입 첫 번째 예시: ``in``
+  - ``map()`` API로 이해하는 맵드 타입
+  - 맵드 타입 두 번째 예시: ``keyof``
+  - 맵드 타입을 사용할 때 주의할 점
+  - 매핑 수정자
+  - 맵드 타입으로 직접 유틸리티 타입 구현
     
   <br/>
